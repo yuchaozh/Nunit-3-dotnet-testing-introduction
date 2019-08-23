@@ -1,0 +1,9 @@
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.csprojAssemblyReference.cache
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+D:\My Learning\C#\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
